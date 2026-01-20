@@ -1,6 +1,2 @@
-/bin
-/pkg
-/src
-.env
 main
-main.exe
+.env
